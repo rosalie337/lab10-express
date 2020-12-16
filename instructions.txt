@@ -1,0 +1,15 @@
+ingredients: [
+        { 
+          name: 'butter softened',
+          measurement:'cup'
+          amount: 1
+        }, {
+          name: 'white sugar',
+          measurement:'cup'
+          amount: 1
+        }, {
+          name: 'brown sugar',
+          measurement:'cup'
+          amount: 1
+        }
+      ],
